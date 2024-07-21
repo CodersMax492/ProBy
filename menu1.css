@@ -1,0 +1,46 @@
+/* <!-- it is for the course index css page -- */
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #ff781f; */
+    font-family:Anton SC;
+}
+body{
+    background-color: #ff781f;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+a{
+    transition: all 3s;
+    font-size: 45px;
+    display: contents;
+    color: antiquewhite;
+}
+ul li a{
+    font-size: 30px;
+    display: contents;
+    color: antiquewhite;
+}
+ul li{
+    padding: .3cm;
+    display: block;
+    margin-top: 1cm;
+}
+.box ul {
+    border: 10px solid #ff791f8d;
+    width: 290;
+    height: 80%;
+    margin-left: .5cm;
+    margin-right: .5cm;
+    margin-top: 1cm;
+    background-color: #f3f1ef5a;
+    border-width: 100%;
+}
+h1{
+    transition: all 3s;
+    font-size: 45px;
+    display: contents;
+    color: antiquewhite;
+}
